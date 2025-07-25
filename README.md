@@ -4,12 +4,11 @@ Hi 👋 My name is Jason Bahago
 Full-Stack Developer and Aspiring Web3 and Blockchain Developer
 ---------------------------------------------------------------
 
-I'm really love coding, it gives me a certain rush that I can't explain. Recently started falling in love with JavaScript and Backend development.
+I love coding, networking, and collaborating.
 
 * 🌍  I'm based in Kaduna, Nigeria
 * ✉️  You can contact me at [jasonbahago@gmail.com](mailto:jasonbahago@gmail.com)
 * 🧠  I'm learning React
-* ⚡  I'm also a passionate football lover
 
 ### Skills
 

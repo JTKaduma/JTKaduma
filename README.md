@@ -8,7 +8,6 @@ I love coding, networking, and collaborating.
 
 * 🌍  I'm based in Kaduna, Nigeria
 * ✉️  You can contact me at [jasonbahago@gmail.com](mailto:jasonbahago@gmail.com)
-* 🧠  I'm learning React
 
 ### Skills
 
